@@ -5,9 +5,8 @@
 [![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://learn.microsoft.com/en-us/power-query/)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-An interactive Power BI dashboard analyzing Uber ride bookings, revenue trends, payment method distribution, rider behavior, and peak demand patterns — built to turn raw ride-booking data into actionable business insights.
+## An interactive Power BI dashboard analyzing Uber ride bookings, revenue trends, payment method distribution, rider behavior, and peak demand patterns — built to turn raw ride-booking data into actionable business insights.
 
 ---
 
