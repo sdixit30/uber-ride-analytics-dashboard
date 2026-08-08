@@ -67,5 +67,5 @@ Peak demand: 6–9 PM with 5,095 rides, the busiest window by far. Slowest perio
 
 | File | Description |
 |---|---|
-| `Uber.pbix` | 
-| `Uber.xlsx` | 
+| `Uber.pbix` `Uber.xlsx`  | 
+
