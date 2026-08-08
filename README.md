@@ -1,8 +1,11 @@
 # 🚗 Uber Ride Analytics Dashboard | Power BI
 
-An interactive Power BI dashboard analyzing Uber ride bookings, revenue trends, payment method distribution, rider behavior, and peak demand patterns — built to turn raw ride-booking data into actionable business insights.
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-![Overview Dashboard](Overview.png)
+An interactive Power BI dashboard analyzing Uber ride bookings, revenue trends, payment method distribution, rider behavior, and peak demand patterns — built to turn raw ride-booking data into actionable business insights.
 
 ---
 
@@ -19,33 +22,21 @@ This project analyzes end-to-end ride-booking operations for a ride-hailing serv
 ## 🧩 Dashboard Pages & Insights
 
 ### 1. Overview
-![Overview](Overview.png)
-
 93K completed bookings, 57K lost, ₹52M total revenue. Auto leads vehicle revenue at ₹13M, followed by Bike (₹11M) and Go Mini (₹10M). Total distance: 2.51M, avg 24.64/ride. Top pickup: Khandsa (600); top drop: Ashram (592). Customer rating: 4.40/5, Driver rating: 4.23/5.
 
 ### 2. Vehicle Performance
-![Vehicle](Vehicle.png)
-
 Detailed breakdown by vehicle type. Auto generated ₹1.28Cr revenue from 32,948 customers — the highest-earning vehicle. Bike leads in booking volume (33,010 bookings), while Premier Sedan and Uber XL earn more per ride despite lower volume — a clear volume-vs-margin trade-off across the fleet.
 
 ### 3. Sparkline
-![Sparkline](Sparkline.png)
-
 A compact, at-a-glance view combining every vehicle's revenue, bookings, and monthly trend in one table. 23,128 completed bookings recorded for Auto alone, contributing 100% share in this filtered view. Monthly patterns show steady demand with a mid-year dip and later recovery.
 
 ### 4. Revenue Analysis
-![Revenue](Revenue.png)
-
 ₹52M total revenue, peaking in select months (4.42M–4.67M range). UPI dominates payments at ₹23M, nearly double Cash (₹13M), followed by Uber Wallet, Credit Card, and Debit Card. Revenue is spread across top customers, led by C7828101 at 7.7K.
 
 ### 5. Rider Insights
-![Rider](Rider.png)
-
 Customer-level detail with cancellation reasons and payment behavior. Top cancellation reason: "AC is not working" (1,155 bookings). UPI remains the preferred payment method (37K customers), followed by Cash (16K) and Uber Wallet (11K). Average distance per ride: 24.64.
 
 ### 6. Location & Demand
-![Location](Location.png)
-
 Peak demand: 6–9 PM with 5,095 rides, the busiest window by far. Slowest period: 12–3 AM (594 rides). Badarpur and Kanhaiya Nagar lead as top-distance zones (163 each). Riders segmented into 18K first-time, 2,505 returning, and 8 regular customers — useful for retention strategy.
 
 ---
@@ -76,5 +67,5 @@ Peak demand: 6–9 PM with 5,095 rides, the busiest window by far. Slowest perio
 
 | File | Description |
 |---|---|
-| `Uber_Dashboard.pbix` | 
-
+| `Uber.pbix` | 
+| `Uber.xlsx` | 
