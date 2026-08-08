@@ -1,8 +1,10 @@
 # 🚗 Uber Ride Analytics Dashboard | Power BI
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![DAX](https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dax/)
+[![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://learn.microsoft.com/en-us/power-query/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 An interactive Power BI dashboard analyzing Uber ride bookings, revenue trends, payment method distribution, rider behavior, and peak demand patterns — built to turn raw ride-booking data into actionable business insights.
@@ -13,7 +15,7 @@ An interactive Power BI dashboard analyzing Uber ride bookings, revenue trends, 
 
 This project analyzes end-to-end ride-booking operations for a ride-hailing service across **6 interactive report pages**, covering completed/cancelled bookings, vehicle-wise performance, revenue by payment method, rider segmentation, and time/location-based demand patterns — the kind of report an operations or growth team would use to make data-driven decisions.
 
-**Tools used:** Power BI Desktop · DAX · Power Query
+**Tools used:** Power BI Desktop · DAX · Power Query · Excel
 
 **Scale analyzed:** ~104K bookings · ₹5.18M+ revenue · 6 vehicle types (Auto, Bike, Go Mini, Go Sedan, Premier Sedan, Uber XL)
 
@@ -67,5 +69,6 @@ Peak demand: 6–9 PM with 5,095 rides, the busiest window by far. Slowest perio
 
 | File | Description |
 |---|---|
-| `Uber.pbix` `Uber.xlsx`  | 
+| `Uber_Dashboard.pbix` | Full working Power BI file — download and open in Power BI Desktop to explore live |
+| `Uber_Dataset.xlsx` | Raw dataset used to build the dashboard |
 
